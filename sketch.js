@@ -28,7 +28,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(0);
+  background("pink");
   
   ground.display();
   box1.display();
